@@ -195,6 +195,7 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+.footer h4 {
+    /* Changed h2 to h4 for sequential headers */
     font-size: 20px;
 }
