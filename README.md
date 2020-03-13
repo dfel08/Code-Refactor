@@ -23,7 +23,7 @@ The easiest way to install is to accept the terms of service, then install the p
 
 ## Deployed Link
 
-* [See Live Site](#)
+* [See Live Site](https://dfel08.github.io/Code-Refactor/)
 
 
 ## Authors
@@ -36,10 +36,10 @@ The easiest way to install is to accept the terms of service, then install the p
 
 [Contributors]
 
-* **SIM **
-* **JULIET**
+* **SIM DHALIWAL**
+* **JULIET GEORGE**
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/simsam95, https://github.com/jules-boogie) who participated in this project.
 
 ## License
 
@@ -47,6 +47,4 @@ This project is licensed under the MIT License
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code, libraries, packages, or UI was used  / inspired from
-* Inspiration
-* etc
+* Thanks to my mentor, David Kramer, and my family, who are a continuing source of support and inspiration.
