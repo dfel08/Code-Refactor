@@ -1,6 +1,6 @@
 # Code-Refactor
 
-First assignment for UC-Berkeley Extension Coding Bootcamp. This is an assignment to refactor an existing webpage to make the code accessible. This was done in conjunction with Sim and Juliet.
+First project for UC-Berkeley Extension Coding Bootcamp. This is a project to refactor an existing webpage to make the code accessible. This was done in conjunction with Sim and Juliet.
 
 ## Getting Started
 
@@ -30,7 +30,7 @@ The easiest way to install is to accept the terms of service, then install the p
 
 * **DAN FELLOWS**
 
-- [Link to Portfolio Site](#)
+- [Link to Portfolio Site](https://dfel08.github.io/Responsive-Portfolio/)
 - [Link to Github](https://github.com/dfel08)
 - [Link to LinkedIn](https://www.linkedin.com/in/dan-fellows-ba88a041/)
 
